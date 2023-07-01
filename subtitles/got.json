@@ -1,0 +1,54 @@
+[ {
+	"start": 2.3,
+	"text1": "They have my son.",
+	"text2": "",
+	"end": 4.6
+},
+{
+	"start": 7.3,
+	"text1": "The Stark boy appears",
+	"text2": "to be less green than we'd hoped.",
+	"end": 10.1
+},
+{
+	"start": 10.2,
+	"text1": "I've heard his wolf killed a dozen",
+	"text2": "men and as many horses.",
+	"end": 13.3
+},
+{
+	"start": 13.4,
+	"text1": "Is it true about",
+	"text2": "Stannis and Renly?",
+	"end": 15.4
+},
+{
+	"start": 15.5,
+	"text1": "Both Baratheon brothers",
+	"text2": "have taken up against us.",
+	"end": 18.1
+},
+{
+	"start": 18.2,
+	"text1": "Jaime captured,",
+	"text2": "his armies scattered...",
+	"end": 20.6
+},
+{
+	"start": 20.7,
+	"text1": "It's a catastrophe.",
+	"text2": "",
+	"end": 22.8
+},
+{
+	"start": 23.2,
+	"text1": "Perhaps we should",
+	"text2": "sue for peace.",
+	"end": 25.9
+},
+{
+	"start": 29.2,
+	"text1": "There's your peace.",
+	"text2": "",
+	"end": 31.5
+} ]

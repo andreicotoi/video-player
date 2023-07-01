@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Video player</title>
+		<link rel="stylesheet" href="./css/style.css"/>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="icon" href="./assets/playpause.png"/>
+	</head>
+	<body>
+		<div class="player">
+			<canvas id="canvas" width="640" height="360"></canvas>
+			<div class="playlist-container">
+				<label id="upload-label" class="upload-label">
+					Add videos
+					<input id="file-input" type="file" accept="video/*" multiple />
+				</label>
+				<div id="playlist">No files uploaded.</div>
+			</div>
+		</div>
+		<script src="./script.js"></script>
+	</body>
+</html>
